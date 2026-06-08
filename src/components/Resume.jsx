@@ -1,4 +1,4 @@
-﻿import resumePDF from "../assets/Ruby.pdf";
+﻿import resumePDF from "../assets/RubyRathore.pdf";
 
 function Resume() {
     return (
